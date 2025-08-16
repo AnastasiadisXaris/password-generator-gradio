@@ -1,5 +1,3 @@
-!pip install gradio
-
 import gradio as gr
 import random
 import string
